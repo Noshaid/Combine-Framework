@@ -1,4 +1,4 @@
-# CombineFrameWork
+# Combine Framework
 
 ## Swift: Combine Basics & Intro
 
