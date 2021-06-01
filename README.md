@@ -1,4 +1,5 @@
 # Combine Framework
+A `declarative` Swift API for processing values over time. 
 
 ## Swift: Combine Basics & Intro
 
